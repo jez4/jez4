@@ -28,6 +28,6 @@ Czech-based Cloud engineer with over 20 years experience in IT specialising in :
 [<img align="left" alt="react" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"  width="80" height="80" />](https://www.credly.com/badges/d11cbbd4-8d82-4da2-b507-6c54b0b8ac9c)
 [<img align="left" alt="react" src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"  width="80" height="80" />](https://www.credly.com/badges/ec80b3f6-6058-49db-8d1e-3d2f312c52ff)
 [<img align="left" alt="react" src="https://images.credly.com/size/110x110/images/6430efe4-0ac0-4df6-8f1b-9559d8fcdf27/image.png"  width="80" height="80" />](https://www.credly.com/badges/e4659cb4-c7e8-4687-9c62-f384058c532c)
-[<img align="left" alt="react" src="https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"  width="80" height="80" />](https://www.credly.com/badges/14cb5fce-5fe5-482c-a4be-7ff3d88228ef)
+[<img align="left" alt="react" src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png"  width="80" height="80" />](https://www.credly.com/badges/14cb5fce-5fe5-482c-a4be-7ff3d88228ef)
 
 <br>
